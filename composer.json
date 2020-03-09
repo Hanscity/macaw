@@ -10,7 +10,7 @@
 	"authors": [
 		{
 			"name": "Hanscity",
-			"email": "hanscity1111@gmail.com",
+			"email": "hanscity1111@gmail.com"
 		}
 	],
 	"require-dev": {
@@ -29,5 +29,5 @@
 			"type": "vcs",
 			"url": "https://github.com/Hanscity/macaw"
 		}
-	],
+	]
 }
