@@ -1,5 +1,5 @@
 {
-	"name": "ch1111/macaw",
+	"name": "hanscity/macaw",
 	"description": "Simple PHP router class.",
 	"license": "MIT",
 	"keywords": [
@@ -16,10 +16,6 @@
 	"require-dev": {
         "phpunit/phpunit": "^8"
     },
-	"autoload": {
-		"psr-4": { "Hanscity\\Macaw\\": "./" }
-	},
-	
 	"require": {
 		"php": ">=7.2"
 
