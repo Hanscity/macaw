@@ -20,10 +20,14 @@
 		"php": ">=7.2"
 
 	},
+	"autoload": {
+		"psr-4": { "Hanscity\\Macaw\\": "./" }
+	},
 	"repositories": [
 		{
 			"type": "vcs",
 			"url": "https://github.com/Hanscity/macaw"
 		}
 	]
+	
 }
